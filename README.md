@@ -44,3 +44,9 @@ Soy Enedy, QA Engineer con una pasión por la tecnología y la calidad del softw
 ---
 
 ¡Gracias por pasar! Siempre abierta a oportunidades y colaboraciones. 🚀
+
+5. *Guarda los cambios:*
+   - Al finalizar, desplázate hacia abajo y agrega un mensaje de commit en "Commit changes".
+   - Haz clic en "Commit changes".
+
+Una vez que hayas completado estos pasos, el README.md se mostrará automáticamente en tu perfil de GitHub y será visible para todos los que visiten tu perfil.
